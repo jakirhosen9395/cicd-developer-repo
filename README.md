@@ -1,2 +1,2 @@
 # cicd-developer-repo
-# go-app branch.
+# go-app branch
